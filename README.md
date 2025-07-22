@@ -34,4 +34,5 @@ go to
 
 http://localhost:8000/docs
 
+![](api-docs.png)
 
